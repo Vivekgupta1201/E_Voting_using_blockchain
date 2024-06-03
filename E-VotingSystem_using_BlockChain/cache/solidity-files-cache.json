@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\graje\\OneDrive\\Desktop\\clone\\Decentralized-Voting-Application-on-Ethereum-Blockchain\\contracts\\Voting.sol": {
+      "lastModificationDate": 1716371232472,
+      "contentHash": "3cd13809165780a88a29eaf4b26a779c",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    }
+  }
+}
